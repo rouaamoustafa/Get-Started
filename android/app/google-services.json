@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096043376516",
+    "project_id": "getstartedcommerce",
+    "storage_bucket": "getstartedcommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096043376516:android:a985c3f8ddb512a906f7d1",
+        "android_client_info": {
+          "package_name": "com.example.get_started"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK37RKR2ljYD-7lj2FvdiTJvH6272VgdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
